@@ -20,7 +20,7 @@ import nothing
 
 
 ## Contributing
-vous êtes invité à ne rien faire de ce README. For
+vous êtes invité à ne rien faire de ce README. F
 
 
 ## License
